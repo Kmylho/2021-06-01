@@ -42,7 +42,7 @@ El programa debe pedir que el usuario digite una opción, y según la opción di
 
 Objeto Personas: Primero cree un objeto que instancie a la clase Personas.
 
-  • Si el usuario digita la opción 1, entonces debe crear un objeto que instancie la clase Estudiante (enviando los argumentos requeridos) y complete los atributos adicionales propios del Estudiante; adicionalmente debe llevar el objeto creado al método AgregarEstudiante del objeto Personas.
-  • Si el usuario digita la opción 2, deberá llamar el método VisualizarEstudiantes del objeto Personas.
-  • Si el usuario digita la opción 3, entonces debe crear un objeto que instancie la clase Profesor (enviando los argumentos requeridos) y complete los atributos adicionales propios del Profesor; adicionalmente debe llevar el objeto creado al método AgregarProfesor del objeto Personas.
-  • Si el usuario digita la opción 4, deberá llamar el método VisualizarProfesores del objeto Personas.
+  o Si el usuario digita la opción 1, entonces debe crear un objeto que instancie la clase Estudiante (enviando los argumentos requeridos) y complete los atributos adicionales propios del Estudiante; adicionalmente debe llevar el objeto creado al método AgregarEstudiante del objeto Personas.
+  o Si el usuario digita la opción 2, deberá llamar el método VisualizarEstudiantes del objeto Personas.
+  o Si el usuario digita la opción 3, entonces debe crear un objeto que instancie la clase Profesor (enviando los argumentos requeridos) y complete los atributos adicionales propios del Profesor; adicionalmente debe llevar el objeto creado al método AgregarProfesor del objeto Personas.
+  o Si el usuario digita la opción 4, deberá llamar el método VisualizarProfesores del objeto Personas.
